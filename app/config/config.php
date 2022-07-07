@@ -9,7 +9,7 @@ define('DB_NAME', 'ART');
 //echo dirname(dirname(__FILE__));
 define('APPROOT', dirname(dirname(__FILE__)));
 // URL Root
-define('URLROOT', 'http://localhost:81/mvc/public/');
+define('URLROOT', 'http://localhost/mvc/public/');
 // Site Name
 define('SITENAME', 'Hussein Hashad Art');
 
