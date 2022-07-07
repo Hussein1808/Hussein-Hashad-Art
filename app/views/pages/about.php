@@ -12,7 +12,7 @@ class About extends view
     <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 class="display-4"> $title</h1>
-      <h2 class="display-4"> $data</h>
+      <h2 class="dispdasdlay-4"> $data</h>
     </div>
   </div>
 EOT;
