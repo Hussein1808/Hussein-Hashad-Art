@@ -1,0 +1,11 @@
+.nav-bar{
+    max-width: 150%;
+    min-width: 100px;
+
+    max-height: 20%;
+    min-height: 5%;
+
+    color: rgb(85, 0, 255);
+    background-color:black;
+    word-wrap: break-word;
+}
